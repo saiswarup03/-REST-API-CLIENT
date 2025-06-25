@@ -67,3 +67,9 @@ Cross-platform and portable: Java runs on any platform with the JVM.
 Reliable and secure: Java supports HTTPS, authentication, and custom headers.
 Extensible: Can be integrated with frameworks like Spring Boot for advanced features.
 In conclusion, a REST API client in Java plays a crucial role in connecting applications with web services. With Java’s powerful libraries and clear syntax, developers can build efficient and scalable clients to consume APIs across various domains such as weather data, e-commerce, finance, and more.
+**OUTPUT
+---- Weather Data ----
+Location: London, City of London, Greater London, United Kingdom
+Temperature: 19.0°C
+Condition: Partly cloudy
+
